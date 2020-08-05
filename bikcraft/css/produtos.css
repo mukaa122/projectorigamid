@@ -1,0 +1,291 @@
+.interna-produtos {
+  background: url(../img/bg-produtos.jpg) no-repeat center;
+  width: 640px;
+  height: 280px;
+}
+
+.produtos-pag {
+  margin-top: 60px;
+}
+
+.produtos-pag h2 {
+  color: #ffffff;
+}
+
+.prod-passeio {
+  background: url(../img/produtos/bikcraft-passeio-1.jpg) no-repeat center;
+  height: 280px;
+  margin-bottom: 20px;
+}
+
+.prod-passeio2 {
+  padding-top: 20px;
+  background: url(../img/produtos/bikcraft-passeio-2.jpg) no-repeat center;
+  width: 460px;
+  height: 280px;
+}
+
+.subtitulo-prod {
+  padding: 110px 0 110px 25px;
+  font-size: 26px;
+  line-height: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  color: #ffffff;
+}
+
+.subtitulo-prod:before {
+  margin: 0 0 10px 25px;
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #fff;
+}
+
+.subtitulo-prod:after {
+  margin: 10px 0 10px 25px;
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #fff;
+}
+
+.icone {
+  background: black;
+  height: 280px;
+}
+
+.icone img {
+  padding: 75px 55px 85px 48px;
+}
+
+.prod-passeio3 {
+  background-color: black;
+  height: 280px;
+  width: 460px;
+  margin-bottom: 60px;
+}
+
+.prod-passeio3 p {
+  padding: 30px 29px;
+  color: #fff;
+  text-align: left;
+  width: 460px;
+  font-size: 18px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.prod-esporte {
+  background: url(../img/produtos/bikcraft-esporte-1.jpg) no-repeat center;
+  height: 280px;
+  margin-bottom: 20px;
+}
+
+.prod-esporte2 {
+  padding-top: 20px;
+  background: url(../img/produtos/bikcraft-esporte-2.jpg) no-repeat center;
+  width: 460px;
+  height: 280px;
+}
+
+.prod-esporte3 {
+  background-color: black;
+  height: 280px;
+  width: 460px;
+  margin-bottom: 60px;
+}
+
+.prod-esporte3 p {
+  padding: 30px 29px;
+  color: #fff;
+  text-align: left;
+  width: 460px;
+  font-size: 18px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.subtitulo-esporte {
+  padding: 110px 0 110px 30px;
+  font-size: 26px;
+  line-height: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  color: #ffffff;
+}
+
+.subtitulo-esporte:before,
+.subtitulo-esporte:after {
+  margin: 10px 30px 10px 35px;
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #fff;
+}
+
+.prod-retro {
+  background: url(../img/produtos/bikcraft-retro-1.jpg) no-repeat center;
+  height: 280px;
+  margin-bottom: 20px;
+}
+
+.prod-retro2 {
+  padding-top: 20px;
+  background: url(../img/produtos/bikcraft-retro-2.jpg) no-repeat center;
+  width: 460px;
+  height: 280px;
+}
+
+.prod-retro3 {
+  background-color: black;
+  height: 280px;
+  width: 460px;
+  margin-bottom: 60px;
+}
+
+.prod-retro3 p {
+  padding: 30px 29px;
+  color: #fff;
+  text-align: left;
+  width: 460px;
+  font-size: 18px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.subtitulo-retro {
+  padding: 110px 0 110px 30px;
+  font-size: 26px;
+  line-height: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+  color: #ffffff;
+}
+
+.subtitulo-retro:before,
+.subtitulo-retro:after {
+  margin: 10px 10px 10px 15px;
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #fff;
+}
+
+.prod-passeio3 img {
+  margin-top: 40px;
+}
+
+.prod-esporte3 img {
+  margin-top: 40px;
+}
+
+.prod-retro3 img {
+  margin-top: 40px;
+}
+
+/* Orçamento */
+.orcamento {
+  background: black;
+  width: 100%;
+  padding: 40px 0;
+}
+
+.orcamento h2 {
+  color: #fec63e;
+}
+
+.orcamento h2:after {
+  background: #fec63e;
+}
+
+.form {
+  padding-right: 60px;
+}
+
+.form label {
+  display: block;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 4px;
+}
+
+.form input {
+  display: block;
+  width: 100%;
+  border: 4px solid #fec63e;
+  background: none;
+  color: white;
+  padding: 7px 10px;
+  margin-bottom: 10px;
+  outline: none;
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.form textarea {
+  display: block;
+  width: 100%;
+  height: 120px;
+  border: 4px solid #fec63e;
+  background: none;
+  color: white;
+  padding: 7px 10px;
+  margin-bottom: 10px;
+  outline: none;
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.form button {
+  background: none;
+  padding: 7px 40px;
+  margin-bottom: 20px;
+}
+
+.orcamento-dados {
+  color: white;
+}
+
+.orcamento-dados h3 {
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: #fec63e;
+  font-weight: bold;
+}
+
+.orcamento-dados span {
+  display: block;
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.dados-email {
+  margin-bottom: 40px;
+}
+
+.orcamento-dados ul {
+  padding-right: 60px;
+}
+
+.orcamento-dados ul li {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 14px;
+  padding: 10px 15px;
+}
+
+.orcamento-dados ul li:nth-child(odd) {
+  background: #1d1d1d;
+}
+
+.orcamento-dados p {
+  margin: 8px 0 8px 0;
+}

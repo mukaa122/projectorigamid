@@ -1,0 +1,42 @@
+.interna-portfolio {
+  background: url(../img/bg-portfolio.jpg) no-repeat center;
+  width: 640px;
+  height: 280px;
+}
+
+.mensagem {
+  padding-top: 44px;
+}
+
+.quote-portfolio {
+  max-width: 360px;
+  margin: 0 auto;
+  color: black;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.quote-portfolio p {
+  padding-bottom: 12px;
+  font-style: italic;
+}
+
+.quote-portfolio cite {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+
+/* fim mensagem */
+
+.bg-portfolio {
+  width: 100%;
+  background: black;
+  height: 663px;
+}
+
+.bg-portfolio ul li {
+  margin-top: 30px;
+}

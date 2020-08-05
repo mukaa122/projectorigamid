@@ -1,0 +1,138 @@
+.interna-contato {
+  background: url(../img/bg-contato.jpg) no-repeat center;
+  width: 640px;
+  height: 280px;
+}
+
+.formulario {
+  padding-right: 60px;
+}
+
+.formulario label {
+  display: block;
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 4px;
+}
+
+.formulario label:first-child {
+  padding-top: 53px;
+}
+
+.formulario input {
+  display: block;
+  width: 100%;
+  border: 4px solid #fec63e;
+  background: none;
+  color: black;
+  padding: 7px 10px;
+  margin-bottom: 10px;
+  outline: none;
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.formulario textarea {
+  display: block;
+  width: 100%;
+  height: 120px;
+  border: 4px solid #fec63e;
+  background: none;
+  color: black;
+  padding: 7px 10px;
+  margin-bottom: 10px;
+  outline: none;
+  font-size: 14px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.formulario button {
+  background: none;
+  padding: 7px 40px;
+  margin-bottom: 20px;
+}
+
+.formulario button:hover {
+  border-color: black;
+  color: black;
+}
+
+.form-contato {
+  color: black;
+}
+
+.form-contato span {
+  display: block;
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.form-contato p {
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.dados-email {
+  margin-bottom: 40px;
+}
+
+.form-contato ul {
+  padding-right: 60px;
+}
+
+.form-contato ul li {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 14px;
+  padding: 10px 15px;
+}
+
+.form-contato p {
+  margin: 8px 0 8px 0;
+}
+
+.contato-dados span {
+  display: block;
+  font-size: 18px;
+  line-height: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.contato-email {
+  margin-bottom: 40px;
+}
+
+.contato-sub {
+  padding-top: 60px;
+}
+
+.contato-sub h2 {
+  color: #fec63e;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.contato-redes ul li {
+  display: inline-block;
+  margin-right: 10px;
+  padding-top: 10px;
+}
+
+.contato-redes ul li a {
+  border: 3px solid #fec63e;
+  display: block;
+  padding: 10px;
+}
+
+.contato-redes ul li a:hover {
+  border-color: black;
+}
+
+.mapa {
+  margin-top: 45px;
+  margin-bottom: 60px;
+}
